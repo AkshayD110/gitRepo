@@ -1,5 +1,5 @@
 while true
 do
-df -h 
-sleep 10
+df -h
+sleep 12
 done
